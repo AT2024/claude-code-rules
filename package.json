@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-rules-scraper",
+  "teype": "module",
+  "scripts": {
+    "scrape": "node scrape_claude_rules.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
